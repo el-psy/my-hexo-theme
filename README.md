@@ -6,5 +6,5 @@
 
 通过scripts弥补了一些bug。。  
 修改了一些样式。  
-是的tags和categories可用。  
+使得tags和categories可用。  
 删掉了一些我用不到的东西，比如reward。。  
